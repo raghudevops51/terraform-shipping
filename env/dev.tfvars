@@ -1,0 +1,5 @@
+bucket  = "rb-b51-dev"
+key     = "shipping/dev/terraform.tfstate"
+ENV     = "dev"
+INSTANCE_TYPE = "t3.small"
+KEY_NAME      = "devops"
